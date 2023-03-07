@@ -1,0 +1,13 @@
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QuanLyCongDanThanhPho\QuanLyCongDanThanhPho\bin\Debug\QuanLyCongDanThanhPho.exe.config
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QuanLyCongDanThanhPho\QuanLyCongDanThanhPho\bin\Debug\QuanLyCongDanThanhPho.exe
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QuanLyCongDanThanhPho\QuanLyCongDanThanhPho\bin\Debug\QuanLyCongDanThanhPho.pdb
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QuanLyCongDanThanhPho\QuanLyCongDanThanhPho\obj\Debug\QuanLyCongDanThanhPho.csproj.AssemblyReference.cache
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QuanLyCongDanThanhPho\QuanLyCongDanThanhPho\obj\Debug\QuanLyCongDanThanhPho.csproj.SuggestedBindingRedirects.cache
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QuanLyCongDanThanhPho\QuanLyCongDanThanhPho\obj\Debug\QuanLyCongDanThanhPho.fNguoiDung.resources
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QuanLyCongDanThanhPho\QuanLyCongDanThanhPho\obj\Debug\QuanLyCongDanThanhPho.Properties.Resources.resources
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QuanLyCongDanThanhPho\QuanLyCongDanThanhPho\obj\Debug\QuanLyCongDanThanhPho.csproj.GenerateResource.cache
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QuanLyCongDanThanhPho\QuanLyCongDanThanhPho\obj\Debug\QuanLyCongDanThanhPho.csproj.CoreCompileInputs.cache
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QuanLyCongDanThanhPho\QuanLyCongDanThanhPho\obj\Debug\QuanLyCongDanThanhPho.exe
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QuanLyCongDanThanhPho\QuanLyCongDanThanhPho\obj\Debug\QuanLyCongDanThanhPho.pdb
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QuanLyCongDanThanhPho\QuanLyCongDanThanhPho\obj\Debug\QuanLyCongDanThanhPho.Admin.resources
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QuanLyCongDanThanhPho\QuanLyCongDanThanhPho\obj\Debug\QuanLyCongDanThanhPho.fDangNhap.resources

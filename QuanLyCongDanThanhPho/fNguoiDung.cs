@@ -23,9 +23,13 @@ namespace QuanLyCongDanThanhPho
         void HienThongTinNguoiDung()
         {
             tbTenNguoiDung.Text = ob.Hoten;
+            HienThongTinCongDan();
+        }
+
+        void HienThongTinCongDan()
+        {
             tbMaCD_CN.Text = ob.Macd.ToString();
             tbHoTen_CN.Text = ob.Hoten;
-            tbCCCD_CN.Text = ob.Cccd;
             dtpkNgaySinh_CN.Text = ob.Ngaysinh;
             tbNoiSinh_CN.Text = ob.Noisinh;
             tbGioiTinh_CN.Text = ob.Gioitinh;
@@ -33,6 +37,16 @@ namespace QuanLyCongDanThanhPho
             tbTTHN_CN.Text = ob.Tinhtranghonnhan;
             tbDanToc_CN.Text = ob.Dantoc;
             tbTonGiao_CN.Text = ob.Tongiao;
+        }
+
+        void HienThongTinHoKhau()
+        {
+            
+        }
+
+        private void đăngXuấtToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

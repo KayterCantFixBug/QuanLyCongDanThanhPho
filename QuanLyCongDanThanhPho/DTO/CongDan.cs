@@ -56,5 +56,22 @@ namespace QuanLyCongDanThanhPho
             this.dantoc = (string)row["DanToc"];
             this.tongiao = (string)row["TonGiao"];
         }
+
+        public override bool Equals(object obj)
+        {
+            if (obj == null || !(obj is CongDan))
+                return false;
+            CongDan other = (CongDan)obj;
+            return this.macd.Equals(other.macd) &&
+                this.hoten.Equals(other.hoten) &&
+                this.ngaysinh.Equals(other.ngaysinh) &&
+                this.noisinh.Equals(other.noisinh) &&
+                this.gioitinh.Equals(other.gioitinh) &&
+                this.nghenghiep.Equals(other.nghenghiep) &&
+                this.tinhtranghonnhan.Equals(other.tinhtranghonnhan) &&
+                this.dantoc.Equals(other.dantoc) &&
+                this.tongiao.Equals(other.tongiao);
+
+        }
     }
 }

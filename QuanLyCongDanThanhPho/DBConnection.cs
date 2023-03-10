@@ -11,7 +11,7 @@ namespace QuanLyCongDanThanhPho
 {
     internal class DBConnection
     {
-        SqlConnection conn = new SqlConnection(Properties.Settings.Default.cnnStr);
+        public SqlConnection conn = new SqlConnection(Properties.Settings.Default.cnnStr);
 
         public DataTable LayDanhSach(string sqlStr)
         {
